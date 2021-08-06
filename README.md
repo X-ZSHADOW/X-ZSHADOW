@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @X-ZSHADOW
+- 👋 Hi, I’m @bluefriend
+- 
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning modding
 - 💞️ I’m looking to collaborate on games
